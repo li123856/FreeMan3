@@ -1,0 +1,2 @@
+#define MAX_GLOBAL_AREAS 500
+

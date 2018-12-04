@@ -1,0 +1,3 @@
+#define MAX_PLAYER_FRIENDS 50
+
+

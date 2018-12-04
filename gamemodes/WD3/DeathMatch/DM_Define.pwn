@@ -1,0 +1,16 @@
+#define MAX_DM_ROOM 500
+#define MAX_DM_ROOM_PLAYERS 20
+#define MAX_DM_LIMTS MAX_HOUSES+HOUSE_LIMTS
+#define MAX_DM_ROOM_TEAM 2
+#define MAX_DM_ROOM_WEAPON 12
+
+#define MAX_DM_MAP 100
+#define MAX_DM_MAP_OBJ 800
+#define MAX_DM_MAP_SPAWN 5
+#define DM_TEMPLATES_FILE "DM/%s.pwn"
+
+#define DM_ROOM_WAIT 0
+#define DM_ROOM_START 1
+#define DM_ROOM_FINISH 2
+
+

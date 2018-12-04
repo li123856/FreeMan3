@@ -1,0 +1,38 @@
+enum userinfo
+{
+	uid,
+	admin,
+	adminpasswords[129],
+	name[80],
+	age,
+	depict[256],
+	passwords[129],
+	ips[32],
+	regtime[80],
+	skinid,
+	cash,
+	bank,
+	gold,
+	level,
+	levelpoint,
+	location,
+	interior,
+	world,
+	Float:spawn[4],
+	weaponsot[12],
+	verify,
+	email[256],
+	questionid,
+	answer[80],
+	sex,
+	colorid,
+	depictcolorid,
+	offlinnotice,
+	gid,
+	glevel,
+	gscore,
+	gsign[64],
+	sign[64]
+}
+new pdate[MAX_PLAYERS][userinfo];
+
